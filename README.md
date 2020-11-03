@@ -1,26 +1,16 @@
 <img src="res/common/logo/exports/STF-128.png?raw=true" style="width:100px;height:100px;" alt="STF">
 
-[![Build Status](https://travis-ci.org/WanderaOrg/stf.svg?branch=master)](https://travis-ci.org/WanderaOrg/stf)
-[![Docker Pulls](https://img.shields.io/docker/pulls/wanderadock/stf.svg)](https://hub.docker.com/r/wanderadock/stf/)
-[![NPM version](https://img.shields.io/npm/v/stf.svg)](https://www.npmjs.com/package/stf)
+[![Build Status](https://travis-ci.org/DeviceFarmer/stf.svg?branch=master&status=created)](https://travis-ci.org/github/DeviceFarmer/stf)
+[![Docker Pulls](https://img.shields.io/docker/pulls/devicefarmer/stf.svg)](https://hub.docker.com/r/devicefarmer/stf/)
+[![npm](https://img.shields.io/npm/v/@devicefarmer/stf)](https://www.npmjs.com/package/@devicefarmer/stf)
 
 **STF** (or Smartphone Test Farm) is a web application for debugging smartphones, smartwatches and other gadgets remotely, from the comfort of your browser.
 
-This is a fork of a original repository located at [https://github.com/openstf/stf](https://github.com/openstf/stf) adding Wandera specific features,
-STF was originally developed at [CyberAgent](https://www.cyberagent.co.jp/en/) to control a growing collection of more than 160 devices. As of July 2016 development is mainly sponsored by [HeadSpin](https://performance.headspin.io/) and [other individual contributors](https://opencollective.com/openstf).
+## Overview
 
-![Close-up of device shelf](doc/shelf_closeup_790x.jpg?raw=true)
+![Close-up of device shelf](doc/shelf_closeup_790x.jpg)
 
-![Super short screencast showing usage](doc/7s_usage.gif?raw=true)
-
-### Contributors
-Thank you to all the people who have already contributed to STF!
-<a href="../../graphs/contributors"><img src="https://opencollective.com/openstf/contributors.svg?width=890" /></a>
-
-### Backers
-Thank you to all our backers! [[Become a backer](https://opencollective.com/openstf#backer)]
-
-<a href="https://opencollective.com/openstf#backers" target="_blank"><img src="https://opencollective.com/openstf/backers.svg?width=890"></a>
+![Super short screencast showing usage](doc/7s_usage.gif)
 
 ## Features
 
