@@ -171,5 +171,8 @@
   "collective": {
     "type": "opencollective",
     "url": "https://opencollective.com/openstf"
+  },
+  "resolutions": {
+    "**/macaddress": ">= 0.2.9"
   }
 }
