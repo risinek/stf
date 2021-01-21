@@ -173,6 +173,7 @@
     "url": "https://opencollective.com/openstf"
   },
   "resolutions": {
-    "**/macaddress": ">= 0.2.9"
+    "**/macaddress": ">= 0.2.9",
+    "**/constantinople": ">=3.1.1"
   }
 }
