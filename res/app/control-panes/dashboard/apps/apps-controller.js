@@ -32,7 +32,7 @@ module.exports = function ShellCtrl($scope) {
 
   // WANDERA CUSTOM - START
   $scope.openSettingActivity = function(activity) {
-    openSetting(activity)
+    run('am start -a android.settings.' + activity)
   }
 
   $scope.openWandera = function() {
